@@ -2,43 +2,67 @@
 
 ## Overview
 
-A data-driven roster management platform designed to help smaller college football programs analyze player development, roster health, eligibility, retention factors, and future recruiting needs.
+A data-driven roster intelligence platform designed to help smaller college football programs evaluate roster health, monitor player development, and make better recruiting and roster management decisions.
 
-This project explores how software, databases, and analytics can support football operations and help smaller school coaches make more informed roster decisions.
+This project explores how software, databases, and analytics can support football operations by transforming scattered information into actionable insights for coaches.
+
+---
 
 ## Problem
 
-College football programs outside of Power 4 often manage roster decisions through scattered spreadsheets and disconnected sources of information. With increasing roster movement, transfer portal activity, and eligibility challenges, coaches need better tools to understand their team's current and future needs so that they can move quickly in their recruiting.
+Many Division II, Division III, NAIA, and resource-conscious FCS football programs manage roster decisions through spreadsheets, recruiting boards, and disconnected sources of information.
 
-## Initial Target User
+With increasing roster movement, transfer portal activity, eligibility challenges, and year-round recruiting, coaching staffs need a centralized platform that helps them quickly understand the current state of their roster and identify the next actions they should take.
 
-Division II football head coaches and their staffs.
+---
+
+## Initial Target Users
+
+- Division II football head coaches
+- Football operations staff
+- Recruiting coordinators
+
+---
 
 ## Planned Features
 
 ### Version 1
+
 - Player roster database
+- Position room management
 - Eligibility tracking
 - Position group depth analysis
 - Player development tracking
 - Recruiting needs identification
+- Roster "Temperature Check" dashboard
 
 ### Future Development
-- Transfer portal risk analysis
+
+- Recruiting fit analysis
 - Player retention insights
 - Historical player comparisons
-- NIL and market value factors
-- Predictive analytics
+- Position room forecasting
+- Recruiting contingency planning
+- Predictive roster analytics
+
+---
 
 ## Technology Goals
 
-This project will explore:
-- Database design and SQL
-- Data analysis with Python
+This project provides hands-on experience with:
+
+- Relational database design
+- SQL
+- Python data analysis
 - Backend development
 - Data visualization
-- Sports analytics applications
+- Sports analytics
+- Product design
+
+---
 
 ## Motivation
 
-As a college football coach with a background in computer science and engineering management, this project sits at the intersection of technology, data, and athlete development.
+As a college football coach with a background in computer science and engineering management, I wanted to build a tool that combines firsthand football operations experience with software development.
+
+Rather than replacing coaches' judgment, the goal is to organize information, identify roster trends, and provide actionable recommendations that help coaching staffs make better roster decisions throughout the football calendar.
